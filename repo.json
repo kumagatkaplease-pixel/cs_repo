@@ -3,6 +3,6 @@
   "description": "English Movies, TV Series, Anime and Asian Dramas",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Deng1130/CloudStreamRepo/refs/heads/main/plugins.json"
+    "https://raw.githubusercontent.com/kumagatkaplease-pixel/cs_repo/refs/heads/main/plugins.json"
   ]
 }
